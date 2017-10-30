@@ -1,0 +1,74 @@
+{
+  "pins": [
+    {
+      "id": 1,
+      "title": "PSU Phuket",
+      "photo": "https://www.phuket.psu.ac.th/source/lab-TE/labcom1207_2.jpg",
+      "lat": "7.892671600000001",
+      "lng": "98.355004",
+      "description": "lab",
+      "buliding": "Buliding1",
+      "room": "1207",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    },
+    {
+      "id": 2,
+      "title": "PSU Phuket",
+      "photo": "http://www.phuketonlinenews.com/images/column_1323055628/HSK.JPG",
+      "lat": "7.892671600000001",
+      "lng": "98.355004",
+      "description": "ห้องเรียน",
+      "buliding": "Buliding6",
+      "room": "6310",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    },
+    {
+      "id": 3,
+      "title": "PSU Phuket",
+      "photo": "http://www.psu.ac.th/sites/files/n7424_ft160603_01.png",
+      "lat": "7.892671600000001",
+      "lng": "98.355004",
+      "description": "ห้องเรียน",
+      "buliding": "Buliding6",
+      "room": "6310",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    },
+    {
+      "id": 5,
+      "title": "PSU Phuket",
+      "photo": "https://vignette3.wikia.nocookie.net/lego/images/a/ac/No-Image-Basic.png",
+      "lat": "7.8926726",
+      "lng": "98.35500379999999",
+      "description": "ลานพระบิดา",
+      "buliding": "Buliding6",
+      "room": "-",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    },
+    {
+      "id": 6,
+      "title": "PSU Phuket",
+      "photo": "https://vignette3.wikia.nocookie.net/lego/images/a/ac/No-Image-Basic.png",
+      "lat": "7.8928259",
+      "lng": "98.35460909999999",
+      "description": "",
+      "buliding": "Buliding1",
+      "room": "",
+      "day": "31",
+      "month": "10",
+      "year": "2017",
+      "timeline": "Today"
+    }
+  ]
+}
